@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+<h1 align="center">Bem-vindo a Página inicial do Instagram  🚀 🚀 🚀 </h1>
+<h1 align="center">Versão Web</h1>
+<h1 align="center">
+    <img alt="instagram home Web" title="#Webinstagram" src="https://github.com/morganOliveira2018/Instagram-clone/blob/main/imgs/Web_instagram_clone.png" width="700px" />
+</h1>
 
-You can use the [editor on GitHub](https://github.com/morganOliveira2018/Instagram-clone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center">Versão Mobile</h1>
+<h1 align="center">
+    <img alt="instagram home mobile" title="#Mobileinstagram" src="https://github.com/morganOliveira2018/Instagram-clone/blob/main/imgs/mobile_instagram_clone.png" width="400px" heigth:"400px" />
+</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Home Instagram
+Nesse projeto você terá o desafio de reconstruir a página inicial de login do Instagram, no qual será abordado o conceito sobre CSS utilizando Flexbox, uma metodologia de posicionamento de elementos em tela mais utilizada no mercado assim como conceitos de responsividade, além disso a expert disponibiliza todo o material necessário em seu GitHub para que você possa realizar o seu projeto.
 
-### Markdown
+## 🚀 Tecnologias:
+Este projeto foi desenvolvido com as seguites tecnologias:
+* [HTML básico](https://www.w3schools.com/html/)
+* [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Suporte ou contato:
 
-```markdown
-Syntax highlighted code block
+- [Linkdln](https://www.linkedin.com/in/morgana-ribeiro-0a1042178?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B95s%2BXgh%2FRtSl3tvl53xJNw%3D%3D);
+- [github/morganOliveira2018/Instagram-clone](https://support.github.com/contact);
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morganOliveira2018/Instagram-clone/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 🚀 Let's code! 🚀
